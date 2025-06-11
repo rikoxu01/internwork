@@ -2,7 +2,7 @@
 This repository contains code excerpts from projects completed during my internship, developed in collaboration with teammates. The uploaded files reflect only the portions of work I was individually responsible for. Thus, the code provided here is not standalone and may not run independently without the full project context.
 
 ## Overview
-### 1.[utility.py](./utility.py)
+### 1.[utility.py](./Yield Curve/utility.py)
 This module provides mathematical functions to construct, interpolate, and optimize fixed-income yield curves and to smooth issuer credit ratings based on market data. 
 
 Key Skills:
